@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Dependency</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Dependency</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">513351631b021110cd6153d16b4bcba9</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-12 21:30:59</sys_created_on>
+        <sys_id>02f79168973b9550a6a07767f053afce</sys_id>
+        <sys_name>Dependency</sys_name>
+        <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
+        <sys_update_name>sys_wizard_answer_02f79168973b9550a6a07767f053afce</sys_update_name>
+        <table/>
+        <target_url>x_snc_devtools_dependency.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

@@ -235,15 +235,12 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>70d40a1b1befe010f28a0d81ec4bcb5d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
             <sys_name>sysauto_script</sys_name>
             <sys_overrides/>
-            <sys_package display_value="DevTools WORK IN PROGRESS" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
+            <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
             <sys_policy/>
-            <sys_scope display_value="DevTools WORK IN PROGRESS">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
+            <sys_scope display_value="DevTools">d689f6901bd38450a89720a8ec4bcbfd</sys_scope>
             <sys_update_name>sys_ui_section_70d40a1b1befe010f28a0d81ec4bcb5d</sys_update_name>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-04-21 15:01:05</sys_updated_on>
             <sys_user/>
             <title>false</title>
             <view display_value="DevTools" name="devtools">75e08353dbbf0450ba15a35305961913</view>

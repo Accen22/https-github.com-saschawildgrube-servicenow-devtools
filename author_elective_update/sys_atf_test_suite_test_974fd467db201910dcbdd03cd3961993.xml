@@ -34,10 +34,10 @@
         <sys_created_by/>
         <sys_created_on>2022-06-17 04:19:35</sys_created_on>
         <sys_id>2b892ad9db309d10dcbdd03cd39619af</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>1816fe347d80000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-12 20:47:02</sys_updated_on>
         <type>Test Suite Test</type>
         <update_guid>e7892ad980309d101e48fbf2897e50af</update_guid>
         <update_guid_history>e7892ad980309d101e48fbf2897e50af:1825137847</update_guid_history>
@@ -50,7 +50,6 @@
         <sys_db_object display_value="" name="sys_atf_test_suite_test">sys_atf_test_suite_test</sys_db_object>
         <sys_id>3af5840f6a3148c88fbffb38ef153910</sys_id>
         <sys_metadata>974fd467db201910dcbdd03cd3961993</sys_metadata>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>fa4f986fdb64d5109232dad1f396191e</sys_name>
         <sys_package display_value="DevTools" source="x_snc_devtools">d689f6901bd38450a89720a8ec4bcbfd</sys_package>
         <sys_parent/>
@@ -59,7 +58,5 @@
         <sys_scope_delete display_value="">00add56a207e4bf3800cdb72bd156af9</sys_scope_delete>
         <sys_update_name>sys_atf_test_suite_test_974fd467db201910dcbdd03cd3961993</sys_update_name>
         <sys_update_version display_value="sys_atf_test_suite_test_974fd467db201910dcbdd03cd3961993">2b892ad9db309d10dcbdd03cd39619af</sys_update_version>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-07-19 08:14:31</sys_updated_on>
     </sys_metadata_delete>
 </record_update>
